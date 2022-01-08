@@ -36,7 +36,7 @@ const AverageIndexScore = ({ countriesList }: AverageIndexScoreProps) => {
     <Paragraph>
       You have selected
       <HighlightedData>{allIndexScores?.length} countries</HighlightedData>. The
-      Index Score Average is :
+      average Index Score is :
       <HighlightedData>{Math.round(averageScore * 100) / 100}</HighlightedData>
     </Paragraph>
   );
