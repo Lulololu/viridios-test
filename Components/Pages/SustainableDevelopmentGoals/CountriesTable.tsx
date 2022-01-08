@@ -1,5 +1,6 @@
 import { useTable } from "react-table";
 import styled from "@emotion/styled";
+// @ts-ignore
 import Flag from "react-world-flags";
 import { DataCountry, TableColumn } from "../../../types/types";
 import appTheme from "../../../styles/appTheme";
@@ -178,7 +179,8 @@ const CountriesTable = ({
                             </StyledTD>
                           );
                         }
-                        if (cell.column.Header.includes("Goal")) {
+                        // @ts-ignore
+                        if (cell.column.Header?.includes("Goal")) {
                           return (
                             <StyledTD {...cell.getCellProps()}>
                               <GoalColor backgroundColor={cell.value} />
@@ -196,7 +198,6 @@ const CountriesTable = ({
 
                         return (
                           <StyledTD
-                            backgroundColor={cell.value}
                             {...cell.getCellProps()}
                           >
                             {
