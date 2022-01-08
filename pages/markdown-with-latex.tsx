@@ -1,7 +1,7 @@
 import Head from "next/head";
 import StyledPageMain from "../Components/StyledComponents/StyledPageMain";
 import StyledH1 from "../Components/StyledComponents/StyledH1";
-import StyledSection from "../Components/StyledComponents/styled-section";
+import StyledSection from "../Components/StyledComponents/StyledSection";
 
 const MarkdownWithLatex = () => {
   return (
