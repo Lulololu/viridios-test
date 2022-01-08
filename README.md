@@ -12,7 +12,7 @@
 
 <p align="center">
     From Figma to Code<br/><br/>
-    <a href="https://flair-test.vercel.app/">Live Demo</a><br/><br/>
+    <a href="https://viridios-test-avcbknb5l-lulololu.vercel.app/sustainable-development-goals">Live Demo</a><br/><br/>
 </p>
 
 
