@@ -20,14 +20,28 @@
 
 #### Principal Features
 
-    1. Tech stack : Next.js / TypeScript / Semantic HTML / CSS
-Use of React Table Library to display the Countries Data Table
 
-    2. React
-The components of the application have been designed to be reusable. Moreover, I extracted the SVG icons from the Noun Library and converted it into a modular component.
+    Achievements
+It took me about 8 hours to build only the first project assigned - Sustainable Development Goals.
+The application displays all the required features. Also, it's totally responsive and accessible.
+The UI has been thought to reflect the values of Viridios AI.
+
+<!-- PRINCIPAL FEATURES -->
+
+#### Principal Features
+
+    1. Tech stack : Next.js / TypeScript / Semantic HTML / CSS
+Use of React Table Library to display the Countries Data Table.
+
+    2. Maintainability
+The React components of the application have been designed to be reusable. Moreover, I extracted the SVG icons from the Noun Library and converted it into a modular component.
+Data is centralized as well as the Design System. Code is commented for the future myself, and colleagues.
 
     3. Next.js
 Use of Next.js features : router, Image component, etc.
+
+    4. TypeScript
+I've tried to type everything I could, especially data. However, the libraries I've used were not totally typed.
 
     5. Fully responsive app
 You can use the app on smartphone as well as on computer. The Table is also responsive.
