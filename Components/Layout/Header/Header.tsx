@@ -1,6 +1,5 @@
 import styled from "@emotion/styled";
 import appTheme from "../../../styles/appTheme";
-
 import NavBar from "./NavBar";
 import ViridiosLogo from "./ViridiosLogo";
 
