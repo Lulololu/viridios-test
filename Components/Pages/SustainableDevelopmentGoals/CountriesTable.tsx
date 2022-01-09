@@ -54,10 +54,10 @@ const TableContainer = styled.div`
     overflow: scroll;
 
     // Table Rows
-    tr:nth-child(even) {
+    tr:nth-of-type(even) {
       background: ${appTheme.colors.tertiary.light};
     }
-    tr:nth-child(odd) {
+    tr:nth-of-type(odd) {
       background: ${appTheme.colors.tertiary.lighter};
     }
   }
@@ -197,9 +197,7 @@ const CountriesTable = ({
                         }
 
                         return (
-                          <StyledTD
-                            {...cell.getCellProps()}
-                          >
+                          <StyledTD {...cell.getCellProps()}>
                             {
                               // Render the cell contents
                               cell.render("Cell")

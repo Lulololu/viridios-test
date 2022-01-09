@@ -1,7 +1,7 @@
 const EarthIcon = ({ width, color }: EarthIconProps) => (
   <svg
     width={width}
-    height="auto"
+    height="100%"
     viewBox="0 0 700 700"
     xmlns="http://www.w3.org/2000/svg"
     fill={color}
