@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
       <a href="https://viridios-test.vercel.app/">
-        <img src="./public/viridios-logo.svg" alt="Flair's Logo" width="300">
+        <img src="./public/viridios-logo.svg" alt="Viridio's Logo" width="300">
     </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
     From Figma to Code<br/><br/>
-    <a href="https://viridios-test-avcbknb5l-lulololu.vercel.app/sustainable-development-goals">Live Demo</a><br/><br/>
+    <a href="https://viridios-test.vercel.app/">Live Demo</a><br/><br/>
 </p>
 
 
