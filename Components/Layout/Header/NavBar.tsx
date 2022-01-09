@@ -6,8 +6,6 @@ import logoBounce from "../../../styles/animation";
 import headerNavLinkStyle from "../../../styles/CSS-composition/header-navlink";
 import { navLinks } from "../../../data/navLinks";
 
-
-
 const Nav = styled.nav`
   display: flex;
   align-items: baseline;
@@ -19,14 +17,12 @@ const List = styled.ul`
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-around;
-
 `;
 
 const Li = styled.li`
   width: max-content;
   list-style: none;
   cursor: pointer;
-  
 `;
 
 const Link = styled.a<{ isActivePath: boolean }>`
