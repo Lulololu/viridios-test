@@ -60,3 +60,29 @@ The colors referenced in the Emotion theme refer to CSS variables. This allows t
 
     9. Browser Support
 The application has been designed to support most browsers. Some modern CSS properties have not been used because they are not sufficiently supported (eg. Flex gap).
+
+#### Installation
+
+1 - Clone the Project's repository
+
+```sh
+git clone https://github.com/Lulololu/viridios-test
+```
+
+2 - Install NPM Packages / Dependencies
+
+```sh
+npm install
+```
+
+3 - Development Server
+
+```sh
+npm run dev
+```
+
+4 - Production build
+
+```sh
+npm run build
+```
