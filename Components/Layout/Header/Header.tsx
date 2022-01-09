@@ -3,7 +3,6 @@ import appTheme from "../../../styles/appTheme";
 import NavBar from "./NavBar";
 import ViridiosLogo from "./ViridiosLogo";
 
-/* Comment Test */
 const HeaderContainer = styled.header`
   display: flex;
   flex-direction: column;
