@@ -16,15 +16,16 @@
 </p>
 
 
-<!-- PRINCIPAL FEATURES -->
+<!-- ACHIEVEMENTS -->
 
-#### Principal Features
-
+#### Achievements
 
     Achievements
-It took me about 8 hours to build only the first project assigned - Sustainable Development Goals.
-The application displays all the required features. Also, it's totally responsive and accessible.
-The UI has been thought to reflect the values of Viridios AI.
+It took me about **8 hours** to build only the first project assigned - Sustainable Development Goals.
+The application displays **all the required features**. Also, it's **totally responsive and accessible**.
+The UI has been thought to reflect the values of **Viridios AI**.
+Finally, **all the architecture has been set up** (pages, routes, navigation, etc.)
+
 
 <!-- PRINCIPAL FEATURES -->
 
