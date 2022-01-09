@@ -9,11 +9,14 @@ const headerNavLinkStyle = css`
   align-items: center;
   justify-content: center;
   height: 100%;
-  padding: 8px 16px;
   color: ${appTheme.colors.primary.darker};
   font-weight: bolder;
   text-decoration: none;
   border-radius: 2px;
+
+  @media (min-width: 610px) {
+    padding: 8px 16px;
+  }
 
   &:hover {
     color: inherit;
